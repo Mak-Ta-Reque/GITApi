@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GITAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GITAPI_jar</output-path>
+    <root id="archive" name="GITAPI.jar">
+      <element id="module-output" name="GITAPI" />
+      <element id="module-test-output" name="GITAPI" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.7/httpcore-4.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20171018/json-20171018.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
